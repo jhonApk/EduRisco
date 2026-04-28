@@ -125,7 +125,7 @@ Este sistema foi construído com responsabilidade ética em primeiro lugar:
 ## 👥 Equipe
 
 Desenvolvido como projeto aplicado de Machine Learning para gestão pública municipal.  
-**Equipe:** Pedro, Thiago e colaboradores
+**Equipe:** Marcos Santos, Marcelo Augusto, Thiago vasconcelos, Diego veloso, Felipe Sousa
 
 ---
 
