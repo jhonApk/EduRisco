@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  EduRisco — Sistema Inteligente de Previsão de Desempenho Escolar ║
 ║  Prefeitura Municipal · Dataset: Student Alcohol Consumption      ║
-║  Autores: Pedro, Thiago e equipe                                  ║
+║  Autores: Marcos, Marcelo e equipe                                ║
 ╚══════════════════════════════════════════════════════════════════╝
 """
 
