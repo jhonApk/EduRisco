@@ -877,22 +877,6 @@ def main():
     else:
         st.info("👈 **Preencha o perfil do aluno** na barra lateral e clique em **Prever Risco do Aluno**.")
 
-    # ── RODAPÉ ÉTICO ──────────────────────────────────────────
-    st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown("""
-    <div class="etico">
-    <strong>⚖️ Diretrizes de Uso Ético (LGPD · Lei 13.709/2018):</strong><br>
-    Esta ferramenta apoia profissionais da educação na identificação precoce de estudantes que
-    precisam de suporte. A previsão de "Alto Risco" <strong>não é rótulo permanente</strong> e
-    jamais deve gerar discriminação, exclusão ou estigma. Dados sobre álcool indicam vulnerabilidade
-    social — e devem gerar <strong>acolhimento, não punição</strong>. Acesso restrito a profissionais
-    autorizados. Revisão humana obrigatória antes de qualquer intervenção.
-    </div>
-    <p style="text-align:center;color:#94A3B8;font-size:0.75rem;margin-top:1.5rem">
-        EduRisco v2.0 · Matemática + Português + Merge (student-merge.R) ·
-        MLP (TensorFlow/Keras) · Student Alcohol Consumption (UCI/Kaggle) · Marcos, Marcelo e equipe
-    </p>
-    """, unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
