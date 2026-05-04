@@ -890,7 +890,7 @@ def main():
     </div>
     <p style="text-align:center;color:#94A3B8;font-size:0.75rem;margin-top:1.5rem">
         EduRisco v2.0 · Matemática + Português + Merge (student-merge.R) ·
-        MLP (TensorFlow/Keras) · Student Alcohol Consumption (UCI/Kaggle) · Pedro, Thiago e equipe
+        MLP (TensorFlow/Keras) · Student Alcohol Consumption (UCI/Kaggle) · Marcos, Marcelo e equipe
     </p>
     """, unsafe_allow_html=True)
 
